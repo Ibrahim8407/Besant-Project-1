@@ -4,3 +4,6 @@ DOB:
 Agr:
 Salary:
 Address:
+expected salary:
+CAB:
+
